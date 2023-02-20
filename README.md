@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shell Scripts
 
 This repository contains shell scripts for the Alx system engineering-devops program.
@@ -23,4 +24,4 @@ This repository contains shell scripts for the Alx system engineering-devops pro
 - `16-clean_emacs`: deletes all files in the current directory that end with the character `~`.
 - `17-tree`: creates the directories `welcome/`, `to/`, and `holberton/` in the current directory.
 - `18-commas`: displays the contents of the current directory in long format, with commas separating each item.
-- `holberton.mgc`: a magic file that can be used with the `file` command to recognize Holberton files.
+- `holberton.mgc`: a magic file that can be used with the `file` command to recognize Holberton files
